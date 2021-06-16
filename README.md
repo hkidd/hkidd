@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harrison Kidd
 - 👀 I’m interested in new technology, EV's/Auto's, sports, building computers and playing with my dogs.
-- 🌱 I’m currently learning the basiccs to become a software developer.
+- 🌱 I’m currently learning the basics to become a software developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, email: harrisonakidd@gmail.com, twitter: @harrisonkidd8
 
