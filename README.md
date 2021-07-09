@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harrison Kidd
 - 👀 I’m interested in new technology, EV's/Auto's, sports, building computers and playing with my dogs.
-- 🌱 I’m currently learning the basics to become a software developer.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a Full Stack Web Dev student at UT Austin.
+- 💞️ Upon graduation in Sep 2021, I will be looking for junior web developer positions.
 - 📫 How to reach me, email: harrisonakidd@gmail.com, twitter: @harrisonkidd8
 
 <!---
