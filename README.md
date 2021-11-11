@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Harrison Kidd
-- 👀 I’m interested in new technology, EV's/Auto's, sports, building computers and playing with my dogs.
-- 🌱 MERN Stack Boot Camp graduate from UT Austin.
-- 💞️ On the lookout for junior web developer positions.
+- 👀 I’m interested in new technology, EV's/Auto's, sports, building computers and playing with my dog.
+- 🌱 Sofware Developer
 - 📫 E-mail: harrisonakidd@gmail.com, Twitter: @harrisonkidd8
 
 <!---
