@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harrison Kidd
 - 👀 I’m interested in new technology, EV's/Auto's, sports, building computers, and playing with my dog.
-- 🧑🏼‍💻 Full Stack Sofware Developer (MERN)
+- 🧑🏼‍💻 Sofware Developer
 - 📫 Twitter: @harrisonkidd8
 
 <!---
